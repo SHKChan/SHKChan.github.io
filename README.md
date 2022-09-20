@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[Personal Weblog](shkchan.github.io)
+Personal Weblog:https://shkchan.github.io/
